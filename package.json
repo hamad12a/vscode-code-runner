@@ -387,6 +387,6 @@
     "typescript": "^3.8.3"
   },
   
-    "capabilities": {
+  "capabilities": {
     "virtualWorkspaces": {"supported": true}
-    }
+  }
